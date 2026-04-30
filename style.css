@@ -1,0 +1,25 @@
+nav { float: right; width: 150px; font-weight: bold;
+letter-spacing: 0.1em; }
+
+nav ul { list-style-type: none; margin: 0; padding: 0; }
+
+nav a { text-decoration: none; padding: 20px; display: block;
+background-color: #B3C7E6;
+border-bottom: 1px solid #FFFFFF;
+background-repeat: no-repeat;
+background-position: right 0; }
+
+nav a:link { color: #FFFFFF; }
+nav a:visited { color: #EAEAEA; }
+nav a:hover { color: #869DC7;
+background-color: #EAEAEA; }
+
+#eevee {background-image: url(Images/Eevee/eeveeicon.jpg);}
+#espeon {background-image: url(Images/Espeon/espeonicon.jpg);}
+#jolteon {background-image: url(Images/Jolteon/jolteonicon.jpg);}
+#vaporeon {background-image: url(Images/Vaporeon/vaporeonicon.jpg);}
+#flareon {background-image: url(Images/Flareon/flareonicon.jpg);}
+#umbreon {background-image: url(Images/Umbreon/umbreonicon.jpg);}
+#leafeon {background-image: url(Images/Leafeon/leafeonicon.jpg);}
+#glaceon {background-image: url(Images/Glaceon/glaceonicon.jpg);}
+#sylveon {background-image: url(Images/Sylveon/sylveonicon.jpg);}
