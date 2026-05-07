@@ -46,7 +46,7 @@ color: #000000;}
     color: #ffffff;
 }
 
-    #wrapper { width: 1700px;
+    #eeveewrapper { width: 1700px;
         height: 600px;
 margin-left: auto;
 margin-right: auto;
@@ -58,4 +58,117 @@ border-top-right-radius: 10px;
 border-bottom-right-radius: 10px;
 box-shadow: 4px 4px 4px #FFA500}
 
-body { background-color: #f7e9ce;}
+#eeveeBody { background-color: #f7e9ce;}
+
+#espeonwrapper { width: 1700px;
+        height: 600px;
+margin-left: auto;
+margin-right: auto;
+padding: 1px 10px;
+background-color: #ddbfcf;
+border-top-left-radius: 10px;
+border-bottom-left-radius: 10px;
+border-top-right-radius: 10px;
+border-bottom-right-radius: 10px;
+box-shadow: 4px 4px 4px #bc5759}
+
+#espeonBody { background-color: #5b4d7a;}
+
+#flareonwrapper { width: 1700px;
+        height: 600px;
+margin-left: auto;
+margin-right: auto;
+padding: 1px 10px;
+background-color: #ec804e;
+border-top-left-radius: 10px;
+border-bottom-left-radius: 10px;
+border-top-right-radius: 10px;
+border-bottom-right-radius: 10px;
+box-shadow: 4px 4px 4px #c4683e}
+
+#flareonBody { background-color: #e2cd96;}
+
+#glaceonwrapper { width: 1700px;
+        height: 600px;
+margin-left: auto;
+margin-right: auto;
+padding: 1px 10px;
+background-color: #b6e1de;
+border-top-left-radius: 10px;
+border-bottom-left-radius: 10px;
+border-top-right-radius: 10px;
+border-bottom-right-radius: 10px;
+box-shadow: 4px 4px 4px #53b1c6}
+
+#glaceonBody { background-color: #31676c;}
+
+#jolteonwrapper { width: 1700px;
+        height: 600px;
+margin-left: auto;
+margin-right: auto;
+padding: 1px 10px;
+background-color: #f7d46e;
+border-top-left-radius: 10px;
+border-bottom-left-radius: 10px;
+border-top-right-radius: 10px;
+border-bottom-right-radius: 10px;
+box-shadow: 4px 4px 4px #5d3776}
+
+#jolteonBody { background-color: #ffffff;}
+
+#leafeonwrapper { width: 1700px;
+        height: 600px;
+margin-left: auto;
+margin-right: auto;
+padding: 1px 10px;
+background-color: #77c79c;
+border-top-left-radius: 10px;
+border-bottom-left-radius: 10px;
+border-top-right-radius: 10px;
+border-bottom-right-radius: 10px;
+box-shadow: 4px 4px 4px #b37a37}
+
+#leafeonBody { background-color: #fbe4ac;}
+
+#sylveonwrapper { width: 1700px;
+        height: 600px;
+margin-left: auto;
+margin-right: auto;
+padding: 1px 10px;
+background-color: #f09dae;
+border-top-left-radius: 10px;
+border-bottom-left-radius: 10px;
+border-top-right-radius: 10px;
+border-bottom-right-radius: 10px;
+box-shadow: 4px 4px 4px #6e9bd2}
+
+#sylveonBody { background-color: #b6e1f2;}
+
+#umbreonwrapper { width: 1700px;
+        height: 600px;
+margin-left: auto;
+margin-right: auto;
+padding: 1px 10px;
+background-color: #485054;
+border-top-left-radius: 10px;
+border-bottom-left-radius: 10px;
+border-top-right-radius: 10px;
+border-bottom-right-radius: 10px;
+box-shadow: 4px 4px 4px #d56b4b;
+color: #efd38f;}
+
+#umbreonBody { background-color: #efd38f;}
+
+#vaporeonwrapper { width: 1700px;
+        height: 600px;
+margin-left: auto;
+margin-right: auto;
+padding: 1px 10px;
+background-color: #76c9dd;
+border-top-left-radius: 10px;
+border-bottom-left-radius: 10px;
+border-top-right-radius: 10px;
+border-bottom-right-radius: 10px;
+box-shadow: 4px 4px 4px #f0ebc3}
+
+#vaporeonBody { background-color: #366278;}
