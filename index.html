@@ -31,10 +31,104 @@ onmouseout="this.src='Images/eevee/eevee.jpg';">
 onmouseover="this.src='Images/eevee/shinyeevee-gigantamax.jpg';"
 onmouseout="this.src='Images/eevee/eevee-gigantamax.jpg';">   
 
-<video controls="controls" width="300" height="200" >
+<video controls="controls" width="300" height="200" id="eeveevideo">
 <source src="Images/eevee/eeveeZ.mp4" type="video/mp4">
 <a href="https://www.youtube.com/watch?v=yDt2uKe-XUM"> Eevee Z-move video</a> (.mov)
 </video>
+<table id="eeveetable" border= "1" >
+    <tr>
+        <th>Vaporeon</th>
+        <td>Evolve Eevee with a water stone</td>
+        <td><img src="Images\Stones\waterStone.jpg" alt="water stone" height="30" width="30"></td>
+    </tr>
+    <tr>
+        <th>Jolteon</th>
+        <td>Evolve Eevee with a thunder stone</td>
+        <td><img src="Images\Stones\thunderStone.jpg" alt="thunder stone" height="30" width="30"></td>
+    </tr>
+    <tr>
+        <th>Flareon</th>
+        <td>Evolve Eevee with a fire stone</td>
+        <td><img src="Images\Stones\fireStone.jpg" alt="fire stone" height="30" width="30"></td>
+    </tr>
+    <tr>
+        <th>Espeon</th>
+        <td>Evolve Eevee with high friendship during the day(fan games use the sun stone) </td>
+        <td><img src="Images\Stones\sunStone.jpg" alt="sun stone" height="30" width="30"></td>
+    </tr>
+    <tr>
+        <th>Umbreon</th>
+        <td>Evolve Eevee with high friendship during the night(fan games use the moon stone) </td>
+        <td><img src="Images\Stones\moonStone.jpg" alt="moon stone" height="30" width="30"></td>
+    </tr>
+    <tr>
+        <th>Leafeon</th>
+        <td>Evolve Eevee near a mossy rock(new games use the leaf stone) </td>
+        <td><img src="Images\Stones\leafStone.jpg" alt="leaf stone" height="30" width="30">
+        <img src="Images\Stones\mossRock.jpg" alt="moss rock" height="30" width="30"></td>
+    </tr>
+    <tr>
+        <th>Glaceon</th>
+        <td>Evolve Eevee near an icy rock(new games use the ice stone) </td>
+        <td><img src="Images\Stones\iceStone.jpg" alt="ice stone" height="30" width="30">
+        <img src="Images\Stones\iceRock.jpg" alt="ice rock" height="30" width="30"></td>
+    </tr>
+    <tr>
+        <th>Sylveon</th>
+        <td>Evolve Eevee with high affection while knowing a fairy-type move(fan games use the shiny stone) </td>
+        <td><img src="Images\Stones\shinyStone.jpg" alt="shiny stone" height="30" width="30"></td>
+    </tr>
+</table>
+<form action="#" method="get" id="eeveeform">
+  <p>What is your favorite evolution?</p>
+
+  <label>
+    <input type="checkbox" name="evolution" value="Eevee">
+    Eevee
+  </label><br>
+
+  <label>
+    <input type="checkbox" name="evolution" value="Vaporeon">
+    Vaporeon
+    </label><br>
+
+  <label>
+    <input type="checkbox" name="evolution" value="Jolteon">
+    Jolteon
+  </label><br>
+
+  <label>
+    <input type="checkbox" name="evolution" value="Flareon">
+    Flareon
+  </label><br>
+
+  <label>
+    <input type="checkbox" name="evolution" value="Leafeon">
+    Leafeon
+  </label><br>
+
+    <label>
+        <input type="checkbox" name="evolution" value="Glaceon">
+        Glaceon
+    </label><br>
+
+    <label>
+        <input type="checkbox" name="evolution" value="Espeon">
+        Espeon
+    </label><br>
+
+    <label>
+        <input type="checkbox" name="evolution" value="Umbreon">
+        Umbreon
+    </label><br>
+
+    <label>
+        <input type="checkbox" name="evolution" value="Sylveon">
+        Sylveon
+    </label><br>
+
+  <input type="submit" value="Submit">
+</form>
 </div>
 </body>
 </html>

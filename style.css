@@ -47,7 +47,7 @@ color: #000000;}
 }
 
     #eeveewrapper { width: 1700px;
-        height: 600px;
+        height: 800px;
 margin-left: auto;
 margin-right: auto;
 padding: 1px 10px;
@@ -60,6 +60,18 @@ box-shadow: 4px 4px 4px #FFA500}
 
 #eeveeBody { background-color: #f7e9ce;}
 
+#eeveevideo { float: right; padding-top: 10px; clear: right;}
+
+#eeveetable { }
+
+#eeveeform {
+  float: right;
+  width: 200px;
+  position: relative;
+  top: -240px;
+  margin-left: 20px;
+  clear: none;
+}
 #espeonwrapper { width: 1700px;
         height: 600px;
 margin-left: auto;
