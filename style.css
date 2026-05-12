@@ -62,16 +62,34 @@ box-shadow: 4px 4px 4px #FFA500}
 
 #eeveevideo { float: right; padding-top: 10px; clear: right;}
 
-#eeveetable { }
+#eeveetable {background-color: #f7e9ce;
+border-color: #9d7550 ; font-size:16px ; }
 
 #eeveeform {
-  float: right;
-  width: 200px;
+  width: 90px;
   position: relative;
-  top: -240px;
+  top: -320px;
   margin-left: 20px;
   clear: none;
+  float: right;
+  right: 490px;
+  background-color: #f7e9ce;
+  padding: 15px;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
 }
+
+#eeveeFooter { background-color: #9d7550; text-align: center; padding: 5px; color: #f7e9ce;
+        width: 1700px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  margin-left: auto;
+  margin-right: auto;
+box-shadow:#FFA500; 
+box-shadow: 4px 4px 4px #FFA500;}
+
 #espeonwrapper { width: 1700px;
         height: 600px;
 margin-left: auto;
@@ -85,6 +103,13 @@ border-bottom-right-radius: 10px;
 box-shadow: 4px 4px 4px #bc5759}
 
 #espeonBody { background-color: #5b4d7a;}
+
+#espeonFooter { background-color: #ddbfcf; text-align: center; padding: 15px; color: #5b4d7a;
+        width: 1700px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  margin-left: auto;
+  margin-right: auto;}
 
 #flareonwrapper { width: 1700px;
         height: 600px;
@@ -100,6 +125,13 @@ box-shadow: 4px 4px 4px #c4683e}
 
 #flareonBody { background-color: #e2cd96;}
 
+#flareonFooter { background-color: #ec804e; text-align: center; padding: 15px; color: #e2cd96;
+        width: 1700px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  margin-left: auto;
+  margin-right: auto;}
+
 #glaceonwrapper { width: 1700px;
         height: 600px;
 margin-left: auto;
@@ -113,6 +145,13 @@ border-bottom-right-radius: 10px;
 box-shadow: 4px 4px 4px #53b1c6}
 
 #glaceonBody { background-color: #31676c;}
+
+#glaceonFooter { background-color: #b6e1de; text-align: center; padding: 15px; color: #31676c;
+        width: 1700px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  margin-left: auto;
+  margin-right: auto;}
 
 #jolteonwrapper { width: 1700px;
         height: 600px;
@@ -128,6 +167,13 @@ box-shadow: 4px 4px 4px #5d3776}
 
 #jolteonBody { background-color: #ffffff;}
 
+#jolteonFooter { background-color: #f7d46e; text-align: center; padding: 15px; color: #ffffff;
+        width: 1700px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  margin-left: auto;
+  margin-right: auto;}
+
 #leafeonwrapper { width: 1700px;
         height: 600px;
 margin-left: auto;
@@ -142,6 +188,13 @@ box-shadow: 4px 4px 4px #b37a37}
 
 #leafeonBody { background-color: #fbe4ac;}
 
+#leafeonFooter { background-color: #77c79c; text-align: center; padding: 15px; color: #fbe4ac;
+        width: 1700px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  margin-left: auto;
+  margin-right: auto;}
+
 #sylveonwrapper { width: 1700px;
         height: 600px;
 margin-left: auto;
@@ -155,6 +208,13 @@ border-bottom-right-radius: 10px;
 box-shadow: 4px 4px 4px #6e9bd2}
 
 #sylveonBody { background-color: #b6e1f2;}
+
+#sylveonFooter { background-color: #f09dae; text-align: center; padding: 15px; color: #b6e1f2;
+        width: 1700px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  margin-left: auto;
+  margin-right: auto;}
 
 #umbreonwrapper { width: 1700px;
         height: 600px;
@@ -171,6 +231,15 @@ color: #efd38f;}
 
 #umbreonBody { background-color: #efd38f;}
 
+#umbreonFooter { background-color: #485054; text-align: center; padding: 15px; color: #efd38f;
+        width: 1700px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  margin-left: auto;
+  margin-right: auto;}
+
+#moonStone { transform: rotate(5deg);}
+
 #vaporeonwrapper { width: 1700px;
         height: 600px;
 margin-left: auto;
@@ -184,3 +253,10 @@ border-bottom-right-radius: 10px;
 box-shadow: 4px 4px 4px #f0ebc3}
 
 #vaporeonBody { background-color: #366278;}
+
+#vaporeonFooter { background-color: #76c9dd; text-align: center; padding: 15px; color: #366278;
+        width: 1700px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  margin-left: auto;
+  margin-right: auto;}
