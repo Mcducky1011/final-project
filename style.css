@@ -50,12 +50,12 @@ color: #000000;}
         height: 800px;
 margin-left: auto;
 margin-right: auto;
-padding: 1px 10px;
+padding: 0px 10px;
 background-color: #9d7550;
 border-top-left-radius: 10px;
-border-bottom-left-radius: 10px;
+
 border-top-right-radius: 10px;
-border-bottom-right-radius: 10px;
+
 box-shadow: 4px 4px 4px #FFA500}
 
 #eeveeBody { background-color: #f7e9ce;}
@@ -81,14 +81,13 @@ border-color: #9d7550 ; font-size:16px ; }
   border-bottom-right-radius: 10px;
 }
 
-#eeveeFooter { background-color: #9d7550; text-align: center; padding: 5px; color: #f7e9ce;
+#eeveeFooter { background-color: #9d7550; text-align: center; padding: 10px; padding-top: 15px; color: #f7e9ce;
         width: 1700px;
   border-bottom-left-radius: 10px;
   border-bottom-right-radius: 10px;
   margin-left: auto;
   margin-right: auto;
-box-shadow:#FFA500; 
-box-shadow: 4px 4px 4px #FFA500;}
+  box-shadow: 4px 4px 4px #FFA500;}
 
 #espeonwrapper { width: 1700px;
         height: 600px;
@@ -97,19 +96,18 @@ margin-right: auto;
 padding: 1px 10px;
 background-color: #ddbfcf;
 border-top-left-radius: 10px;
-border-bottom-left-radius: 10px;
 border-top-right-radius: 10px;
-border-bottom-right-radius: 10px;
 box-shadow: 4px 4px 4px #bc5759}
 
 #espeonBody { background-color: #5b4d7a;}
 
-#espeonFooter { background-color: #ddbfcf; text-align: center; padding: 15px; color: #5b4d7a;
+#espeonFooter { background-color: #ddbfcf; text-align: center; padding: 10px; padding-top: 15px; color: #5b4d7a;
         width: 1700px;
   border-bottom-left-radius: 10px;
   border-bottom-right-radius: 10px;
   margin-left: auto;
-  margin-right: auto;}
+  margin-right: auto;
+box-shadow: 4px 4px 4px #bc5759;}
 
 #flareonwrapper { width: 1700px;
         height: 600px;
@@ -118,19 +116,18 @@ margin-right: auto;
 padding: 1px 10px;
 background-color: #ec804e;
 border-top-left-radius: 10px;
-border-bottom-left-radius: 10px;
 border-top-right-radius: 10px;
-border-bottom-right-radius: 10px;
 box-shadow: 4px 4px 4px #c4683e}
 
 #flareonBody { background-color: #e2cd96;}
 
-#flareonFooter { background-color: #ec804e; text-align: center; padding: 15px; color: #e2cd96;
+#flareonFooter { background-color: #ec804e; text-align: center; padding: 10px; padding-top: 15px; color: #e2cd96;
         width: 1700px;
   border-bottom-left-radius: 10px;
   border-bottom-right-radius: 10px;
   margin-left: auto;
-  margin-right: auto;}
+  margin-right: auto;
+box-shadow: 4px 4px 4px #c4683e;}
 
 #glaceonwrapper { width: 1700px;
         height: 600px;
@@ -139,19 +136,18 @@ margin-right: auto;
 padding: 1px 10px;
 background-color: #b6e1de;
 border-top-left-radius: 10px;
-border-bottom-left-radius: 10px;
 border-top-right-radius: 10px;
-border-bottom-right-radius: 10px;
 box-shadow: 4px 4px 4px #53b1c6}
 
 #glaceonBody { background-color: #31676c;}
 
-#glaceonFooter { background-color: #b6e1de; text-align: center; padding: 15px; color: #31676c;
+#glaceonFooter { background-color: #b6e1de; text-align: center; padding: 10px; padding-top: 15px; color: #31676c;
         width: 1700px;
   border-bottom-left-radius: 10px;
   border-bottom-right-radius: 10px;
   margin-left: auto;
-  margin-right: auto;}
+  margin-right: auto;
+box-shadow: 4px 4px 4px #53b1c6;}
 
 #jolteonwrapper { width: 1700px;
         height: 600px;
@@ -160,19 +156,18 @@ margin-right: auto;
 padding: 1px 10px;
 background-color: #f7d46e;
 border-top-left-radius: 10px;
-border-bottom-left-radius: 10px;
 border-top-right-radius: 10px;
-border-bottom-right-radius: 10px;
 box-shadow: 4px 4px 4px #5d3776}
 
 #jolteonBody { background-color: #ffffff;}
 
-#jolteonFooter { background-color: #f7d46e; text-align: center; padding: 15px; color: #ffffff;
+#jolteonFooter { background-color: #f7d46e; text-align: center; padding: 10px; padding-top: 15px; color: #ffffff;
         width: 1700px;
   border-bottom-left-radius: 10px;
   border-bottom-right-radius: 10px;
   margin-left: auto;
-  margin-right: auto;}
+  margin-right: auto;
+box-shadow: 4px 4px 4px #5d3776;}
 
 #leafeonwrapper { width: 1700px;
         height: 600px;
@@ -181,19 +176,18 @@ margin-right: auto;
 padding: 1px 10px;
 background-color: #77c79c;
 border-top-left-radius: 10px;
-border-bottom-left-radius: 10px;
 border-top-right-radius: 10px;
-border-bottom-right-radius: 10px;
 box-shadow: 4px 4px 4px #b37a37}
 
 #leafeonBody { background-color: #fbe4ac;}
 
-#leafeonFooter { background-color: #77c79c; text-align: center; padding: 15px; color: #fbe4ac;
+#leafeonFooter { background-color: #77c79c; text-align: center; padding: 10px; padding-top: 15px; color: #fbe4ac;
         width: 1700px;
   border-bottom-left-radius: 10px;
   border-bottom-right-radius: 10px;
   margin-left: auto;
-  margin-right: auto;}
+  margin-right: auto;
+box-shadow: 4px 4px 4px #b37a37;}
 
 #sylveonwrapper { width: 1700px;
         height: 600px;
@@ -202,19 +196,18 @@ margin-right: auto;
 padding: 1px 10px;
 background-color: #f09dae;
 border-top-left-radius: 10px;
-border-bottom-left-radius: 10px;
 border-top-right-radius: 10px;
-border-bottom-right-radius: 10px;
 box-shadow: 4px 4px 4px #6e9bd2}
 
 #sylveonBody { background-color: #b6e1f2;}
 
-#sylveonFooter { background-color: #f09dae; text-align: center; padding: 15px; color: #b6e1f2;
+#sylveonFooter { background-color: #f09dae; text-align: center; padding: 10px; padding-top: 15px; color: #b6e1f2;
         width: 1700px;
   border-bottom-left-radius: 10px;
   border-bottom-right-radius: 10px;
   margin-left: auto;
-  margin-right: auto;}
+  margin-right: auto;
+box-shadow: 4px 4px 4px #6e9bd2;}
 
 #umbreonwrapper { width: 1700px;
         height: 600px;
@@ -223,20 +216,19 @@ margin-right: auto;
 padding: 1px 10px;
 background-color: #485054;
 border-top-left-radius: 10px;
-border-bottom-left-radius: 10px;
 border-top-right-radius: 10px;
-border-bottom-right-radius: 10px;
 box-shadow: 4px 4px 4px #d56b4b;
 color: #efd38f;}
 
 #umbreonBody { background-color: #efd38f;}
 
-#umbreonFooter { background-color: #485054; text-align: center; padding: 15px; color: #efd38f;
+#umbreonFooter { background-color: #485054; text-align: center; padding: 10px; padding-top: 15px; color: #efd38f;
         width: 1700px;
   border-bottom-left-radius: 10px;
   border-bottom-right-radius: 10px;
   margin-left: auto;
-  margin-right: auto;}
+  margin-right: auto;
+box-shadow: 4px 4px 4px #d56b4b;}
 
 #moonStone { transform: rotate(5deg);}
 
@@ -247,16 +239,15 @@ margin-right: auto;
 padding: 1px 10px;
 background-color: #76c9dd;
 border-top-left-radius: 10px;
-border-bottom-left-radius: 10px;
 border-top-right-radius: 10px;
-border-bottom-right-radius: 10px;
 box-shadow: 4px 4px 4px #f0ebc3}
 
 #vaporeonBody { background-color: #366278;}
 
-#vaporeonFooter { background-color: #76c9dd; text-align: center; padding: 15px; color: #366278;
+#vaporeonFooter { background-color: #76c9dd; text-align: center; padding: 10px; padding-top: 15px; color: #366278;
         width: 1700px;
   border-bottom-left-radius: 10px;
   border-bottom-right-radius: 10px;
   margin-left: auto;
-  margin-right: auto;}
+  margin-right: auto;
+box-shadow: 4px 4px 4px #f0ebc3}
