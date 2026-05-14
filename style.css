@@ -1,3 +1,8 @@
+.favicon {
+    width: 70px;
+    height: 70px;
+}
+
 nav { float: right; width: 150px; font-weight: bold;
 letter-spacing: 0.1em; 
 padding-right: 15px; 
@@ -13,6 +18,7 @@ background-position: right 0; }
 
 nav a:link { color: #FFFFFF; }
 nav a:visited { color: #EAEAEA; }
+
 
 #eevee {background-image: url(Images/Eevee/eeveeicon.jpg);
 background-color: #be732d;
